@@ -11,59 +11,59 @@
 </p>
 
 <p align="center">
-  <a href="https://shader-hub.ru"><img src="https://img.shields.io/badge/website-shader--hub.ru-8b5cf6?style=for-the-badge" alt="Website" /></a>
-  <a href="https://github.com/likeavenus/shader-hub/stargazers"><img src="https://img.shields.io/github/stars/likeavenus/shader-hub?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" /></a>
+  <a href="https://shader-hub.ru"><img src="https://img.shields.io/badge/сайт-shader--hub.ru-8b5cf6?style=for-the-badge" alt="Сайт" /></a>
+  <a href="https://github.com/likeavenus/shader-hub/stargazers"><img src="https://img.shields.io/github/stars/likeavenus/shader-hub?style=for-the-badge&logo=github&label=Звёзды" alt="Звёзды на GitHub" /></a>
   <a href="https://github.com/likeavenus/shader-hub/issues"><img src="https://img.shields.io/github/issues/likeavenus/shader-hub?style=for-the-badge&logo=github&label=Issues" alt="Issues" /></a>
 </p>
 
 <p align="center">
-  <a href="./README.ru.md">Русская версия</a>
+  <a href="./README.en.md">English version</a>
 </p>
 
 ---
 
-**Shader Hub** is a browser portal for creative coders: write **GLSL** (and experiment with **WebGPU**), see live previews, publish to a community feed, and follow **Shader School** — a hands-on course with automatic grading and XP leaderboard.
+**Shader Hub** — портал в браузере для художников кода: пишете **GLSL** (и пробуете **WebGPU**), сразу видите превью, публикуете в ленту и проходите **Shader School** — курс с автопроверкой и рейтингом по XP.
 
-> **This repository is the public home of the project** (README, feedback, stars).  
-> Application source code is maintained in a **private** repository during active development.
+> **Этот репозиторий — публичная витрина проекта** (описание, звёзды, обратная связь).  
+> Исходный код приложения сейчас в **приватном** репозитории, пока идёт активная разработка.
 
-## Live
+## Сайт
 
-**[https://shader-hub.ru](https://shader-hub.ru)** — free, no install.
+**[https://shader-hub.ru](https://shader-hub.ru)** — бесплатно, без установки.
 
-| Area | URL |
-|------|-----|
-| Editor | [/editor](https://shader-hub.ru/editor) |
-| Learn (Shader School) | [/learn](https://shader-hub.ru/learn) |
-| Feed | [/](https://shader-hub.ru/) |
+| Раздел | Ссылка |
+|--------|--------|
+| Редактор | [/editor](https://shader-hub.ru/editor) |
+| Обучение (Shader School) | [/learn](https://shader-hub.ru/learn) |
+| Лента | [/](https://shader-hub.ru/) |
 
-## Features
+## Возможности
 
-- **Live shader editor** — Monaco, instant preview, compare with reference
-- **Community feed** — publish works, likes, profiles
-- **Shader School** — 15 lessons, stages, hints, pixel-based grading
-- **Leaderboard** — XP and streaks
-- **RU / EN** — learning content and UI
+- **Редактор шейдеров** — Monaco, живое превью, сравнение с эталоном
+- **Лента сообщества** — публикации, лайки, профили
+- **Shader School** — 15 уроков, этапы, подсказки, проверка по пикселям
+- **Рейтинг** — XP и серии дней
+- **RU / EN** — интерфейс и тексты уроков
 
-## Tech stack
+## Стек
 
-| Layer | Technologies |
-|-------|----------------|
-| **Frontend** | React 19, TypeScript, Vite 6, Tailwind CSS 4, React Router 7, TanStack Query, Zustand, Monaco Editor |
-| **Shaders** | WebGL 2 (GLSL), WebGPU / WGSL (where supported) |
+| Слой | Технологии |
+|------|------------|
+| **Фронт** | React 19, TypeScript, Vite 6, Tailwind CSS 4, React Router 7, TanStack Query, Zustand, Monaco Editor |
+| **Шейдеры** | WebGL 2 (GLSL), WebGPU / WGSL (где поддерживается браузером) |
 | **API** | Node.js (Express), PostgREST, PostgreSQL 16 |
-| **Auth** | JWT (Supabase-style flow) |
-| **Deploy** | Docker Compose, nginx, Selectel VPS |
+| **Авторизация** | JWT |
+| **Деплой** | Docker Compose, nginx, VPS Selectel |
 
-## Support the project
+## Как поддержать
 
-If Shader Hub is useful to you:
+Если проект зашёл:
 
-1. **[⭐ Star this repo](https://github.com/likeavenus/shader-hub)** — helps others discover it  
-2. **[Open an issue](https://github.com/likeavenus/shader-hub/issues)** — bugs, ideas, lesson feedback  
-3. **Try the site** and share the link
+1. **[⭐ Звезда на GitHub](https://github.com/likeavenus/shader-hub)** — помогает другим нас найти  
+2. **[Issue](https://github.com/likeavenus/shader-hub/issues)** — баги, идеи, правки к урокам  
+3. **Зайти на сайт** и скинуть ссылку друзьям
 
-## Contact
+## Контакты
 
 **[@likeavenus](https://github.com/likeavenus)** · [Telegram](https://t.me/likeavenus) · [gulievrafael94@gmail.com](mailto:gulievrafael94@gmail.com)
 
@@ -71,6 +71,6 @@ If Shader Hub is useful to you:
 
 <p align="center">
   <a href="https://github.com/likeavenus/shader-hub">
-    <img src="https://img.shields.io/github/stars/likeavenus/shader-hub?style=social" alt="Star Shader Hub on GitHub" />
+    <img src="https://img.shields.io/github/stars/likeavenus/shader-hub?style=social" alt="Поставить звезду Shader Hub на GitHub" />
   </a>
 </p>
