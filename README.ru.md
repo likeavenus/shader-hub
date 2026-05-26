@@ -63,9 +63,9 @@
 2. **[Issue](https://github.com/likeavenus/shader-hub/issues)** — баги, идеи, правки к урокам  
 3. **Зайти на сайт** и скинуть ссылку друзьям
 
-## Автор
+## Контакты
 
-**[@likeavenus](https://github.com/likeavenus)** · [Telegram](https://t.me/likeavenus)
+**[@likeavenus](https://github.com/likeavenus)** · [Telegram](https://t.me/likeavenus) · [gulievrafael94@gmail.com](mailto:gulievrafael94@gmail.com)
 
 ---
 

@@ -63,9 +63,9 @@ If Shader Hub is useful to you:
 2. **[Open an issue](https://github.com/likeavenus/shader-hub/issues)** — bugs, ideas, lesson feedback  
 3. **Try the site** and share the link
 
-## Author
+## Contact
 
-**[@likeavenus](https://github.com/likeavenus)** · [Telegram](https://t.me/likeavenus)
+**[@likeavenus](https://github.com/likeavenus)** · [Telegram](https://t.me/likeavenus) · [gulievrafael94@gmail.com](mailto:gulievrafael94@gmail.com)
 
 ---
 
