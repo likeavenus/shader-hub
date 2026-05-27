@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://shader-hub.ru"><img src="https://img.shields.io/badge/сайт-shader--hub.ru-8b5cf6?style=for-the-badge" alt="Сайт" /></a>
-  <a href="https://github.com/likeavenus/shader-hub/stargazers"><img src="https://img.shields.io/github/stars/likeavenus/shader-hub?style=for-the-badge&logo=github&label=Звёзды" alt="Звёзды на GitHub" /></a>
+  <a href="https://github.com/likeavenus/shader-hub/stargazers"><img src="https://img.shields.io/github/stars/likeavenus/shader-hub?style=for-the-badge&logo=github&label=Stars" alt="Звёзды на GitHub" /></a>
   <a href="https://github.com/likeavenus/shader-hub/issues"><img src="https://img.shields.io/github/issues/likeavenus/shader-hub?style=for-the-badge&logo=github&label=Issues" alt="Issues" /></a>
 </p>
 
